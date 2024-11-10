@@ -11,15 +11,15 @@ All codes developed in the article 'A deep learning model for predicting selecte
 'example_load_dataset_and_training_model.ipynb' is an example to training model, load and save parameters
 
 # Required Package:
-pytorch > 1.10.0
-torch-geometric > 2.0.2
-torch-scatter > 2.0.9
-torch-cluster > 1.5.9
-torch-sparse > 0.6.12
-torch-spline-conv > 1.2.1
-e3nn == 0.4.4
-numpy > 1.20.1
-matplotlib > 3.3.4
+pytorch > 1.10.0\n
+torch-geometric > 2.0.2\n
+torch-scatter > 2.0.9\n
+torch-cluster > 1.5.9\n
+torch-sparse > 0.6.12\n
+torch-spline-conv > 1.2.1\n
+e3nn == 0.4.4\n
+numpy > 1.20.1\n
+matplotlib > 3.3.4\n
 
 # origin article
 https://www.nature.com/articles/s43588-023-00550-y
