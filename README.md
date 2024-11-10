@@ -1,13 +1,22 @@
 # DetaNet
 A geometric deep learning model for predicting molecular tensorial properties and selected spectra with high accurately and efficiency
+
 All codes developed in the article 'A deep learning model for predicting selected organic molecular spectra' are shown in the present folder:
+
 'datanet_model/detanet.py' is the main program for DetaNet;
+
 'datanet_model/modules' lists all the submodules of DetaNet;
+
 'trained_param' stores all parameters after DetaNet training.
+
 'datanet_model/constant.py' contains all parameters to simulate the spectra, such as temperature, speed of light, Boltsmann and Planck constant, etc.;
+
 'datanet_model/spectra_simulator.py' is the code to simulate the molecular spectra;
+
 'detanet_model/metrics.py' contains metric functions including the loss function and accuracy function;
+
 'example_calculate_properties_and_spectra.ipynb' is an example to predict the IR, Raman, UV-Vis and NMR spectra for phenol molecule using DetaNet.
+
 'example_load_dataset_and_training_model.ipynb' is an example to training model, load and save parameters
 
 # Required Package:
