@@ -21,6 +21,9 @@ e3nn == 0.4.4
 numpy > 1.20.1    
 matplotlib > 3.3.4    
 
+# qm9s dataset
+qm9s dataset can downloaded at https://figshare.com/articles/dataset/QM9S_dataset/24235333
+
 # origin article
 https://www.nature.com/articles/s43588-023-00550-y
 
